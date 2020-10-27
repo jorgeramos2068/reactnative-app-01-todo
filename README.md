@@ -1,1 +1,1 @@
-This project includes a PoC sample integration with React Native using Expo CLI.
+React Native application created with Expo CLI that implements a TODO list app.
